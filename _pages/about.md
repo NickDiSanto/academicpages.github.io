@@ -1,3 +1,15 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 Hi, I'm Nick! I am a Machine Learning researcher from Irvine, California. I graduated summa cum laude and #1 in my class with a Bachelor of Science in Computer Science from [California Baptist University](https://calbaptist.edu) in Spring 2023.
 My research focuses on Multi-Modal Transfer Learning, which encompasses:
 - Natural Language Processing / Understanding
