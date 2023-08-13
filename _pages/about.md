@@ -21,19 +21,21 @@ I am passionate about designing intelligent agents capable of perceiving and com
 
 ------------------
 # Papers
-======
 
 <u>Geospatial Correlation as a Benchmark for Implicit Learning from Tokenized Social Media Data</u> \
 **Nick DiSanto**, Benjamin Sanders, Gavin Harding, Nathan Corso, Anthony Corso \
 *In Submission*
 
+
 [Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection](https://arxiv.org/abs/2212.05116) \
 **Nick DiSanto**, Gavin Harding, Ethan Martinez, Benjamin Sanders \
 *arXiv preprint*
 
+
 <u>1.5 Billion Tweets Operationalized and Mapped to Baseball Game Outcomes via Geospatial Indexing</u> \
 Anthony Corso, **Nick DiSanto**, Nathan Corso, Gavin Harding, Kevin Wang, Benjamin Sanders, Naomi Hekman \
 *In Submission*
+
 
 [Analyzing the Contextual Shortcomings of Artificial General Intelligence](https://arxiv.org/abs/2304.00002) \
 **Nick DiSanto** \
@@ -41,7 +43,6 @@ Anthony Corso, **Nick DiSanto**, Nathan Corso, Gavin Harding, Kevin Wang, Benjam
 
 ------------------
 # News
-======
 
 ## 2023
 
@@ -50,6 +51,6 @@ Anthony Corso, **Nick DiSanto**, Nathan Corso, Gavin Harding, Kevin Wang, Benjam
 - **March**: Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"
 
 ## 2022
-- **December**: Our paper ["Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"](https://arxiv.org/abs/2212.05116) in on arXiv!
+- **December**: Our paper ["Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"](https://arxiv.org/abs/2212.05116) is on arXiv!
 - **September**: My paper ["Analyzing the Contextual Shortcomings of Artificial General Intelligence"](https://arxiv.org/abs/2304.00002) is on arXiv!
 
