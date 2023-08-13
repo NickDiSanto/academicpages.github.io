@@ -10,18 +10,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Nick! I am a Machine Learning researcher from Irvine, California. I graduated summa cum laude and #1 in my class with a Bachelor of Science in Computer Science from [California Baptist University](https://calbaptist.edu) in Spring 2023.
+Hi, I'm Nick! I am a Machine Learning researcher from Irvine, California. I graduated *summa cum laude* and #1 in my class with a B.S. in Computer Science from [California Baptist University](https://calbaptist.edu) in Spring 2023. \
 My research focuses on Multi-Modal Transfer Learning, which encompasses:
 - Natural Language Processing / Understanding
 - Computer Vision
 - Self-Supervised Reinforcement Learning
 - Computational Cognitive Science
+
 I am passionate about designing intelligent agents capable of perceiving and comprehending the world in ways similar to humans. My research revolves around constructing computational models and cognitive architectures that capture the intricacies of abstract cognition. I'm currently investigating the capability of few-shot learning and implicit learning of tokenized language to find complex patterns in noisy data.
 
-Papers
+------------------
+# Papers
 ======
 
-Geospatial Correlation as a Benchmark for Implicit Learning from Tokenized Social Media Data \
+<u>Geospatial Correlation as a Benchmark for Implicit Learning from Tokenized Social Media Data</u> \
 **Nick DiSanto**, Benjamin Sanders, Gavin Harding, Nathan Corso, Anthony Corso \
 *In Submission*
 
@@ -29,7 +31,7 @@ Geospatial Correlation as a Benchmark for Implicit Learning from Tokenized Socia
 **Nick DiSanto**, Gavin Harding, Ethan Martinez, Benjamin Sanders \
 *arXiv preprint*
 
-1.5 Billion Tweets Operationalized and Mapped to Baseball Game Outcomes via Geospatial Indexing \
+<u>1.5 Billion Tweets Operationalized and Mapped to Baseball Game Outcomes via Geospatial Indexing</u> \
 Anthony Corso, **Nick DiSanto**, Nathan Corso, Gavin Harding, Kevin Wang, Benjamin Sanders, Naomi Hekman \
 *In Submission*
 
@@ -37,6 +39,17 @@ Anthony Corso, **Nick DiSanto**, Nathan Corso, Gavin Harding, Kevin Wang, Benjam
 **Nick DiSanto** \
 *arXiv preprint*
 
-News
+------------------
+# News
 ======
+
+## 2023
+
+- **May**: Began an internship at General Electric.
+- **April**: I graduated *summa cum laude* from California Baptist University and was awarded the "2023 CS Outstanding Student Award"!
+- **March**: Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"
+
+## 2022
+- **December**: Our paper ["Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"](https://arxiv.org/abs/2212.05116) in on arXiv!
+- **September**: My paper ["Analyzing the Contextual Shortcomings of Artificial General Intelligence"](https://arxiv.org/abs/2304.00002) is on arXiv!
 
