@@ -10,8 +10,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Nick! I am a Machine Learning researcher from Irvine, California. I graduated with a B.S. in Computer Science from [California Baptist University](https://calbaptist.edu) in Spring 2023. \
-My research spans Natural Language Processing and Multimodal Transfer Learning. More specifically, I seek to build models that can acquire comprehensive insights about the world through text and generalize that knowledge across various modalities. I'm currently investigating the capability of few-shot learning and implicit learning of tokenized language to find complex patterns in noisy textual data. My goal is to bridge the gap between language and vision, construct computational models and cognitive architectures that capture the intricacies of abstract cognition, and pave the way for more intelligent and adaptable agents.
+Hi, I'm Nick! I am a Machine Learning researcher from Irvine, California. I graduated with a B.S. in Computer Science from [California Baptist University](https://calbaptist.edu) in Spring 2023.
+
+My research spans Natural Language Processing and Multimodal Transfer Learning. More specifically, I seek to build models that can acquire comprehensive insights about the world through text and generalize that knowledge across various modalities.
+
+I'm currently investigating the capability of few-shot learning and implicit learning of tokenized language to find complex patterns in noisy textual data. My goal is to bridge the gap between language and vision, construct computational models and cognitive architectures that capture the intricacies of abstract cognition, and pave the way for more intelligent and adaptable agents.
 
 ------------------
 # Papers
