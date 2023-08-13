@@ -33,20 +33,20 @@ I'm currently investigating the capability of few-shot implicit learning of toke
 # Papers
 
 - **Geospatial Correlation as a Benchmark for Implicit Learning from Tokenized Social Media Data** \
-***Nick DiSanto**, Benjamin Sanders, Gavin Harding, Nathan Corso, Anthony Corso* \
+***N DiSanto**, B Sanders, G Harding, N Corso, A Corso* \
 *In Submission*
 
 
 - [**Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection**](https://arxiv.org/abs/2212.05116) \
-***Nick DiSanto**, Gavin Harding, Ethan Martinez, Benjamin Sanders* \
+***N DiSanto**, G Harding, E Martinez, B Sanders* \
 *arXiv preprint*
 
 
 - **1.5 Billion Tweets Operationalized and Mapped to Baseball Game Outcomes via Geospatial Indexing** \
-*Anthony Corso, **Nick DiSanto**, Nathan Corso, Gavin Harding, Kevin Wang, Benjamin Sanders, Naomi Hekman* \
+*A Corso, **N DiSanto**, N Corso, G Harding, K Wang, B Sanders, N Hekman* \
 *In Submission*
 
 
 - [**Analyzing the Contextual Shortcomings of Artificial General Intelligence**](https://arxiv.org/abs/2304.00002) \
-***Nick DiSanto*** \
+***N DiSanto*** \
 *arXiv preprint*
