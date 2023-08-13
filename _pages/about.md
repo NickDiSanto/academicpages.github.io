@@ -17,6 +17,19 @@ My research interests are in Natural Language Processing and Multimodal Transfer
 I'm currently investigating the capability of few-shot implicit learning of tokenized language to find complex patterns in noisy textual data. My goal is to bridge the gap between language and vision, construct computational models and cognitive architectures that capture the intricacies of abstract cognition, and pave the way for more intelligent and adaptable agents.
 
 ------------------
+# News
+
+## 2023
+
+- **May**: Began an internship at General Electric.
+- **April**: I graduated *summa cum laude* from California Baptist University and was awarded the "2023 CS Outstanding Student Award"!
+- **March**: Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"
+
+## 2022
+- **December**: Our paper ["Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"](https://arxiv.org/abs/2212.05116) is on arXiv!
+- **September**: My paper ["Analyzing the Contextual Shortcomings of Artificial General Intelligence"](https://arxiv.org/abs/2304.00002) is on arXiv!
+
+------------------
 # Papers
 
 **Geospatial Correlation as a Benchmark for Implicit Learning from Tokenized Social Media Data** \
@@ -37,17 +50,3 @@ Anthony Corso, **Nick DiSanto**, Nathan Corso, Gavin Harding, Kevin Wang, Benjam
 [**Analyzing the Contextual Shortcomings of Artificial General Intelligence**](https://arxiv.org/abs/2304.00002) \
 **Nick DiSanto** \
 *arXiv preprint*
-
-------------------
-# News
-
-## 2023
-
-- **May**: Began an internship at General Electric.
-- **April**: I graduated *summa cum laude* from California Baptist University and was awarded the "2023 CS Outstanding Student Award"!
-- **March**: Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"
-
-## 2022
-- **December**: Our paper ["Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"](https://arxiv.org/abs/2212.05116) is on arXiv!
-- **September**: My paper ["Analyzing the Contextual Shortcomings of Artificial General Intelligence"](https://arxiv.org/abs/2304.00002) is on arXiv!
-
