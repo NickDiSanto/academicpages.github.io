@@ -12,7 +12,7 @@ redirect_from:
 
 Hi! I am a Machine Learning researcher from Irvine, California. I graduated with a B.S. in Computer Science from [California Baptist University](https://calbaptist.edu) in Spring 2023.
 
-My research interests are in Natural Language Processing and Multimodal Transfer Learning. I seek to build models that can acquire comprehensive insights about the world through text and generalize that knowledge across various modalities.
+My research interests are in Natural Language Processing and Multimodal Transfer Learning. I seek to build models that can acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities.
 
 I'm currently investigating the capability of few-shot implicit learning of tokenized language to find abstract patterns in noisy data. My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent and adaptable agents.
 
@@ -26,14 +26,14 @@ I'm currently investigating the capability of few-shot implicit learning of toke
 - **March**: Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"
 
 ## 2022
-- **December**: Our paper ["Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"](https://arxiv.org/abs/2212.05116) is on arXiv!
+- **December**: Our paper ["Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"](https://arxiv.org/abs/2212.05116) is on arXiv and being submitted for peer review!
 - **September**: My paper ["Analyzing the Contextual Shortcomings of Artificial General Intelligence"](https://arxiv.org/abs/2304.00002) is on arXiv!
 
 ------------------
 # Papers
 
-- **Geospatial Correlation as a Benchmark for Implicit Learning from Tokenized Social Media Data** \
-**N DiSanto**, B Sanders, G Harding, N Corso, A Corso \
+- **Beyond the Attention Paradigm: Implicit Learning from Geospatial Social Media Data** \
+**N DiSanto**, B Sanders, A Corso, G Harding \
 *In Submission*
 
 
