@@ -18,7 +18,7 @@ I'm currently investigating the capability of few-shot implicit learning of toke
 
 I also do part-time NLP consulting for [Sirch](https://bento.me/sirch), a startup building a novel search engine, where I am building and optimizing generative models to perform Query Auto-Completion (QAC) and auto-correction.
 
-I also am passionate about playing chess and studying theory. Add me on [lichess](https://lichess.org/@/Ncd3030) and challenge me to a game!
+I'm also passionate about playing chess and studying theory. Add me on [lichess](https://lichess.org/@/Ncd3030) and challenge me to a game!
 
 If you are interested in some of my research or would like to collaborate, please don't hesitate to reach out. I'm always interested in taking on new and exciting projects!
 
