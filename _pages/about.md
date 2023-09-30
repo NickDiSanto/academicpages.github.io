@@ -16,11 +16,11 @@ My research interests are in Natural Language Processing and Multimodal Transfer
 
 I'm currently investigating the capability of few-shot implicit learning of tokenized language to find abstract patterns in noisy data. My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent and adaptable agents.
 
-I also do part-time NLP consulting for [Sirch](https://bento.me/sirch), a startup building a novel search engine, where I am building and optimizing generative models to perform Query Auto-Completion (QAC) and auto-correction.
+I am also a consultant for [Sirch](https://bento.me/sirch), a startup creating a novel search engine, where I am building and optimizing generative models to perform Query Auto-Completion (QAC) and auto-correction.
 
 I'm also passionate about playing chess and studying theory. Add me on [lichess](https://lichess.org/@/Ncd3030) and challenge me to a game!
 
-If you are interested in some of my research or would like to collaborate, please don't hesitate to reach out. I'm always interested in taking on new and exciting projects!
+If you're interested in my research or would like to collaborate, please don't hesitate to reach out! I'm always interested in taking on new and exciting projects.
 
 
 ------------------
@@ -34,7 +34,7 @@ If you are interested in some of my research or would like to collaborate, pleas
 
 ## 2022
 - **December**: Our paper ["Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"](https://arxiv.org/abs/2212.05116) is on arXiv and being submitted for peer review!
-- **September**: My paper ["Analyzing the Contextual Shortcomings of Artificial General Intelligence"](https://arxiv.org/abs/2304.00002) is on arXiv!
+- **September**: My paper ["Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"](https://arxiv.org/abs/2304.00002) is on arXiv!
 
 ------------------
 # Papers
@@ -49,11 +49,11 @@ If you are interested in some of my research or would like to collaborate, pleas
 *arXiv preprint*
 
 
-- **1.5 Billion Tweets Operationalized and Mapped to Baseball Game Outcomes via Geospatial Indexing** \
-A Corso, **N DiSanto**, N Corso, G Harding, K Wang, B Sanders, N Hekman \
+- **Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition** \
+A Corso, **N DiSanto**, N Corso, G Harding, B Sanders \
 *In Submission*
 
 
-- [**Analyzing the Contextual Shortcomings of Artificial General Intelligence**](https://arxiv.org/abs/2304.00002) \
+- [**Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception**](https://arxiv.org/abs/2304.00002) \
 **N DiSanto** \
 *arXiv preprint*
