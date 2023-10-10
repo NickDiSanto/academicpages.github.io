@@ -40,13 +40,13 @@ If you're interested in my research or would like to collaborate, please don't h
 # Papers
 
 - [**Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data**](https://arxiv.org/abs/2310.05378) \
-**N DiSanto**, B Sanders, A Corso, G Harding \
-*In Submission*
+**N DiSanto**, A Corso, B Sanders, G Harding \
+*ArXiv Preprint, In Submission*
 
 
 - [**Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection**](https://arxiv.org/abs/2212.05116) \
 **N DiSanto**, G Harding, E Martinez, B Sanders \
-*arXiv preprint*
+*ArXiv Preprint, In Submission*
 
 
 - **Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition** \
@@ -56,4 +56,4 @@ A Corso, **N DiSanto**, N Corso, G Harding, B Sanders \
 
 - [**Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception**](https://arxiv.org/abs/2304.00002) \
 **N DiSanto** \
-*arXiv preprint*
+*ArXiv Preprint*
