@@ -10,18 +10,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning researcher and NLP consultant from Irvine, California. I graduated with a B.S. in Computer Science from [California Baptist University](https://calbaptist.edu) in Spring 2023.
+## About Me
+I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated *summa cum laude* with a B.S. in Computer Science from [California Baptist University](https://calbaptist.edu) in Spring 2023.
 
-My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Multimodal Transfer Learning. I seek to build models that can acquire comprehensive insights about the world from a specific domain, such as language or vision, and generalize that knowledge across various modalities.
+My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Cross-Modal Transfer Learning. I seek to build models that can tacitly acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities. My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent, adaptable, and human-centered agents.
 
-I'm currently investigating the capability of few-shot implicit learning of tokenized language to find abstract patterns in noisy social media data. My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent and adaptable agents.
+## Current Work
+I'm currently investigating the capability of few-shot implicit learning of tokenized language to find abstract patterns in noisy social media data. Check out my [recent papers](https://scholar.google.com/citations?user=aZcG3noAAAAJ&hl=en&oi=ao)!
 
-I am also an NLP consultant for [Sirch](https://bento.me/sirch), a startup creating a novel search engine, where I am building and optimizing generative models to perform Query Auto-Completion (QAC) and auto-correction.
+I am also an NLP consultant for [Sirch](https://bento.me/sirch), a startup that is creating a novel search engine, where I am build models that perform Query Auto-Completion (QAC), automated information retrieval, and Natural Language Understanding.
+
+If you're interested in my research or would like to collaborate, please reach out! I'm always interested in taking on new and exciting projects.
+
+## Outside of Research
+In my free time, I play/watch basketball, hang out with my wife and cats, and try to learn something new every day.
 
 I'm also passionate about playing chess and studying theory. Add me on [lichess](https://lichess.org/@/Ncd3030) and challenge me to a game!
-
-If you're interested in my research or would like to collaborate, please don't hesitate to reach out! I'm always interested in taking on new and exciting projects.
-
 
 ------------------
 # News
