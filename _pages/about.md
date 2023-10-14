@@ -20,7 +20,7 @@ I'm currently investigating the capability of few-shot implicit learning of toke
 
 I am also an NLP consultant for [Sirch](https://bento.me/sirch), a startup that is creating a novel search engine, where I am build models that perform Query Auto-Completion (QAC), automated information retrieval, and Natural Language Understanding.
 
-If you're interested in my research or would like to collaborate, please reach out! I'm always interested in taking on new and exciting projects.
+If you're interested in my research or would like to collaborate, please [reach out](nick.c.disanto@gmail.com)! I'm always interested in taking on new and exciting projects.
 
 ## Outside of Research
 In my free time, I play/watch basketball, hang out with my wife and cats, and try to learn something new every day.
