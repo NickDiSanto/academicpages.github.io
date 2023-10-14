@@ -12,9 +12,9 @@ redirect_from:
 
 I am a Machine Learning researcher and NLP consultant from Irvine, California. I graduated with a B.S. in Computer Science from [California Baptist University](https://calbaptist.edu) in Spring 2023.
 
-My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Multimodal Transfer Learning. I seek to build models that can acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities.
+My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Multimodal Transfer Learning. I seek to build models that can acquire comprehensive insights about the world from a specific domain, such as language or vision, and generalize that knowledge across various modalities.
 
-I'm currently investigating the capability of few-shot implicit learning of tokenized language to find abstract patterns in noisy data. My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent and adaptable agents.
+I'm currently investigating the capability of few-shot implicit learning of tokenized language to find abstract patterns in noisy social media data. My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent and adaptable agents.
 
 I am also an NLP consultant for [Sirch](https://bento.me/sirch), a startup creating a novel search engine, where I am building and optimizing generative models to perform Query Auto-Completion (QAC) and auto-correction.
 
