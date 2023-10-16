@@ -17,7 +17,7 @@ My research broadly spans Machine Learning, but my current interests are in Natu
 
 My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent, adaptable, and human-centered agents.
 
-For more information, check out my [CV](https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV_Oct2023.pdf)!
+For more information, check out my [CV](https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf)!
 
 ## Current Work
 I'm currently investigating the capability of few-shot implicit learning of tokenized language to find abstract patterns in noisy social media data. Check out my [recent papers](https://scholar.google.com/citations?user=aZcG3noAAAAJ&hl=en&oi=ao)!
