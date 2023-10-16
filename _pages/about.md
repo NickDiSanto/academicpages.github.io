@@ -27,7 +27,7 @@ I am also an NLP consultant for [Sirch](https://bento.me/sirch), a startup that 
 If you're interested in my research or would like to collaborate, please [reach out](mailto:nick.c.disanto@gmail.com)! I'm always interested in taking on new and exciting projects.
 
 ## Outside of Research
-In my free time, I play/watch basketball, hang out with my wife and cats, and try to learn something new every day.
+In my free time, I play/watch basketball and hang out with my wife and cats. I consider myself to be a [lifelong learner](https://medium.com/dear-family/curiosity-is-your-superpower-how-to-become-a-lifelong-learner-8ca5eeb6fe37) seeking incremental progress every day!
 
 I'm also passionate about playing chess and studying theory. Add me on [lichess](https://lichess.org/@/Ncd3030) and challenge me to a game!
 
