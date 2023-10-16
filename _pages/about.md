@@ -53,7 +53,7 @@ I'm also passionate about playing chess and studying theory. Add me on [lichess]
 *In Submission, 2023*
 
 
-- Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition \
+- <ins>Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition</ins> \
 A Corso, **N DiSanto**, N Corso, G Harding, B Sanders \
 *In Submission, 2023*
 
