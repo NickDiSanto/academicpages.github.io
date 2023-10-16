@@ -50,19 +50,19 @@ I'm also passionate about playing chess and studying theory. Add me on [lichess]
 
 - [Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data](https://arxiv.org/abs/2310.05378) \
 **N DiSanto**, A Corso, B Sanders, G Harding \
-*ArXiv Preprint, In Submission*, 2023
+*In Submission, 2023*
 
 
 - [Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection](https://arxiv.org/abs/2212.05116) \
 **N DiSanto**, G Harding, E Martinez, B Sanders \
-*ArXiv Preprint, In Submission*, 2022
+*In Submission, 2022*
 
 
 - Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition \
 A Corso, **N DiSanto**, N Corso, G Harding, B Sanders \
-*In Submission*, 2023
+*In Submission, 2023*
 
 
 - [Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception](https://arxiv.org/abs/2304.00002) \
 **N DiSanto** \
-*ArXiv Preprint*, 2022
+*ArXiv Preprint, 2022*
