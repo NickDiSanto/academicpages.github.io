@@ -35,7 +35,7 @@ I'm also passionate about playing chess and studying theory. Add me on [lichess]
 # News
 ## 2023
 - **October**: Our paper ["Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"](https://arxiv.org/abs/2310.05378) is on arXiv and being submitted for peer review!
-- **September**: Accepted a full-time position as a Software Engineer at General Electric
+- **September**: Accepted a full-time position as a Software Engineer at General Electric. I will be building ML pipelines to perform big data analysis on renewable energy applications!
 - **September**: Began NLP consulting for [Sirch](https://bento.me/sirch)
 - **May**: Began an internship at General Electric
 - **April**: Graduated *summa cum laude* from California Baptist University and was awarded the "2023 CS Outstanding Student Award"
