@@ -24,6 +24,8 @@ I'm currently investigating the capability of few-shot implicit learning of toke
 
 I am also an NLP consultant for [Sirch](https://bento.me/sirch), a startup that is creating a novel search engine, where I am build models that perform Query Auto-Completion (QAC), automated information retrieval, and Natural Language Understanding.
 
+I am an incoming Software Engineer at General Electric, starting in December. I will be building ML pipelines to perform big data analysis on renewable energy applications.
+
 If you're interested in my research or would like to collaborate, please [reach out](mailto:nick.c.disanto@gmail.com)! I'm always interested in taking on new and exciting projects.
 
 ## Outside of Research
@@ -35,7 +37,7 @@ I'm also passionate about playing chess and studying theory. Add me on [lichess]
 # News
 ## 2023
 - **October**: Our paper ["Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"](https://arxiv.org/abs/2310.05378) is on arXiv and being submitted for peer review!
-- **September**: Accepted a full-time position as a Software Engineer at General Electric. I will be building ML pipelines to perform big data analysis on renewable energy applications!
+- **September**: Accepted a full-time position as a Software Engineer at General Electric
 - **September**: Began NLP consulting for [Sirch](https://bento.me/sirch)
 - **May**: Began an internship at General Electric
 - **April**: Graduated *summa cum laude* from California Baptist University and was awarded the "2023 CS Outstanding Student Award"
