@@ -13,7 +13,9 @@ redirect_from:
 ## About Me
 I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated *summa cum laude* with a B.S. in Computer Science from [California Baptist University](https://calbaptist.edu) in Spring 2023.
 
-My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Cross-Modal Transfer Learning. I seek to build models that can tacitly acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities. My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent, adaptable, and human-centered agents.
+My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Cross-Modal Transfer Learning. I seek to build models that can tacitly acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities.
+My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent, adaptable, and human-centered agents.
+For more information, check out my CV!
 
 ## Current Work
 I'm currently investigating the capability of few-shot implicit learning of tokenized language to find abstract patterns in noisy social media data. Check out my [recent papers](https://scholar.google.com/citations?user=aZcG3noAAAAJ&hl=en&oi=ao)!
