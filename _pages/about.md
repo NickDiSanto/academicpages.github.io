@@ -11,25 +11,25 @@ redirect_from:
 ---
 
 ## About Me
-<font size="3">I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated *summa cum laude* with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
+<font size="3">I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.<br>
 
-My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Cross-Modal Transfer Learning. I seek to build models that can tacitly acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities.
+My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Cross-Modal Transfer Learning. I seek to build models that can tacitly acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities.<br>
 
-My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent, adaptable, and human-centered agents.
+My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent, adaptable, and human-centered agents.<br>
 
 For more information, check out my <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">CV</a>!</font>
 
 ## Current Work
-<font size="3">I'm currently investigating the capability of few-shot implicit learning of tokenized language to find abstract patterns in noisy social media data. Check out my <a href="https://scholar.google.com/citations?user=aZcG3noAAAAJ&hl=en&oi=ao" target="_blank">recent papers</a>!
+<font size="3">I'm currently investigating the capability of few-shot implicit learning of tokenized language to find abstract patterns in noisy social media data. Check out my <a href="https://scholar.google.com/citations?user=aZcG3noAAAAJ&hl=en&oi=ao" target="_blank">recent papers</a>!<br>
 
-I am also an NLP consultant for <a href="https://bento.me/sirch" target="_blank">Sirch</a>, a startup that is creating a novel search engine, where I am build models that perform Query Auto-Completion (QAC), automated information retrieval, and Natural Language Understanding.
+I am also an NLP consultant for <a href="https://bento.me/sirch" target="_blank">Sirch</a>, a startup that is creating a novel search engine, where I am build models that perform Query Auto-Completion (QAC), automated information retrieval, and Natural Language Understanding.<br>
 
-I am an incoming Software Engineer at General Electric, starting in December. I will be building ML pipelines to perform big data analysis on renewable energy applications.
+I am an incoming Software Engineer at General Electric, starting in December. I will be building ML pipelines to perform big data analysis on renewable energy applications.<br>
 
-If you're interested in my research or would like to collaborate, please [reach out](mailto:nick.c.disanto@gmail.com)! I'm always interested in taking on new and exciting projects.</font>
+If you're interested in my research or would like to collaborate, please <a href="mailto:nick.c.disanto@gmail.com">reach out</a>! I'm always interested in taking on new and exciting projects.</font>
 
 ## Outside of Research
-<font size="3">In my free time, I play/watch basketball and hang out with my wife and cats. I consider myself to be a <a href="https://medium.com/dear-family/curiosity-is-your-superpower-how-to-become-a-lifelong-learner-8ca5eeb6fe37" target="_blank">lifelong learner</a>, seeking incremental progress every day!
+<font size="3">In my free time, I play/watch basketball and hang out with my wife and cats. I consider myself to be a <a href="https://medium.com/dear-family/curiosity-is-your-superpower-how-to-become-a-lifelong-learner-8ca5eeb6fe37" target="_blank">lifelong learner</a>, seeking incremental progress every day!<br>
 
 I'm also passionate about playing chess and studying theory. Add me on <a href="https://lichess.org/@/Ncd3030" target="_blank">lichess</a> and challenge me to a game!</font>
 
