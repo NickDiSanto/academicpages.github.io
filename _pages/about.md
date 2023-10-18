@@ -8,6 +8,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+a {
+   color: #1E7EC8;
+   text-decoration: none; // changed from text-decoration:underline
+}
+a:hover {
+   text-decoration: underline; // changed from text:decoration:none
+}
+</style>
 <p style="margin-bottom:10px;"><font size="5"><b>About Me</b></font></p>
 <font size="3"><p>I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
 </p>
