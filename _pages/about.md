@@ -34,7 +34,7 @@ If you're interested in my research or would like to collaborate, please <a href
 I'm also passionate about playing chess and studying theory. Add me on <a href="https://lichess.org/@/Ncd3030" target="_blank">lichess</a> and challenge me to a game!</font>
 
 ------------------
-## News
+# News
 ## 2023
 - **October**: Our paper ["Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"](https://arxiv.org/abs/2310.05378){:target="_blank"} is on arXiv and being submitted for peer review!
 - **October**: Accepted a full-time position as a Software Engineer at General Electric
