@@ -36,13 +36,21 @@ redirect_from:
 ------------------
 <p style="margin-bottom:15px;"><font size="6"><b>News</b></font></p>
 <font size="5"><b>2023</b></font>
-- <font size="4"><b>October</b>:</font> <font size="3">Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"</a> is on arXiv and being submitted for peer review!</font>
+<ul style="list-style-type:disc;">
+  <li><font size="4"><b>October</b>:</font> <font size="3">Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"</a> is on arXiv and being submitted for peer review!</font></li>
+  <li><font size="4"><b>October</b>:</font> <font size="3">Accepted a full-time position as a Software Engineer at General Electric</font></li>
+  <li><font size="4"><b>September</b>:</font> <font size="3">Began NLP consulting for Sirch</font></li>
+  <li><font size="4"><b>May</b>:</font> <font size="3">Began an internship at General Electric</font></li>
+  <li><font size="4"><b>April</b>:</font> <font size="3">Graduated *summa cum laude* from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</font></li>
+  <li><font size="4"><b>March</b>:</font> <font size="3">Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"</font></li>
+</ul>
+<!-- - <font size="4"><b>October</b>:</font> <font size="3">Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"</a> is on arXiv and being submitted for peer review!</font>
 - <font size="4"><b>October</b>:</font> <font size="3">Accepted a full-time position as a Software Engineer at General Electric</font>
 - <font size="4"><b>September</b>:</font> <font size="3">Began NLP consulting for Sirch</font>
 - <font size="4"><b>May</b>:</font> <font size="3">Began an internship at General Electric</font>
 - <font size="4"><b>April</b>:</font> <font size="3">Graduated *summa cum laude* from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</font>
 - <font size="4"><b>March</b>:</font> <font size="3">Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"</font>
-
+ -->
 <font size="5"><b>2022</b></font>
 - <font size="4"><b>December</b>:</font> <font size="3">Our paper <a href="https://arxiv.org/abs/2212.05116" target="_blank">"Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"</a> is on arXiv and being submitted for peer review!
 - <font size="4"><b>September</b>:</font> <font size="3">My paper <a href="https://arxiv.org/abs/2304.00002" target="_blank">"Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"</a> is on arXiv!
