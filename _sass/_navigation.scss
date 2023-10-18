@@ -135,10 +135,6 @@
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
-    &:hover {
-      color: $link-color-hover;
-    }
-
     &:first-child {
       border-top-right-radius: 0;
       border-bottom-right-radius: 0;
