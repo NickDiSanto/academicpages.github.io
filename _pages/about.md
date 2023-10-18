@@ -44,5 +44,5 @@ redirect_from:
 - <font size="4"><b>March</b>:</font> <font size="3">Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"</font>
 
 <font size="5"><b>2022</b></font>
-- <font size="3"><b>December</b>: Our paper <a href="https://arxiv.org/abs/2212.05116" target="_blank">"Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"</a> is on arXiv and being submitted for peer review!
-- <font size="3"><b>September</b>: My paper <a href="https://arxiv.org/abs/2304.00002" target="_blank">"Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"</a> is on arXiv!
+- <font size="4"><b>December</b>:</font> <font size="3">Our paper <a href="https://arxiv.org/abs/2212.05116" target="_blank">"Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"</a> is on arXiv and being submitted for peer review!
+- <font size="4"><b>September</b>:</font> <font size="3">My paper <a href="https://arxiv.org/abs/2304.00002" target="_blank">"Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"</a> is on arXiv!
