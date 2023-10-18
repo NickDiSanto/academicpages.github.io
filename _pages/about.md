@@ -36,16 +36,16 @@ I'm also passionate about playing chess and studying theory. Add me on <a href="
 ------------------
 # News
 ## 2023
-- **October**: Our paper ["Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"](https://arxiv.org/abs/2310.05378){:target="_blank"} is on arXiv and being submitted for peer review!
-- **October**: Accepted a full-time position as a Software Engineer at General Electric
-- **September**: Began NLP consulting for Sirch
-- **May**: Began an internship at General Electric
-- **April**: Graduated *summa cum laude* from California Baptist University and was awarded the "2023 CS Outstanding Student Award"
-- **March**: Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"
+- <font size="3"><b>October</b>: Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"</a> is on arXiv and being submitted for peer review!</font>
+- <font size="3"><b>October</b>: Accepted a full-time position as a Software Engineer at General Electric</font>
+- <font size="3"><b>September</b>: Began NLP consulting for Sirch</font>
+- <font size="3"><b>May</b>: Began an internship at General Electric</font>
+- <font size="3"><b>April</b>: Graduated *summa cum laude* from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</font>
+- <font size="3"><b>March</b>: Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"</font>
 
 ## 2022
-- **December**: Our paper ["Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"](https://arxiv.org/abs/2212.05116){:target="_blank"} is on arXiv and being submitted for peer review!
-- **September**: My paper ["Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"](https://arxiv.org/abs/2304.00002){:target="_blank"} is on arXiv!
+- <font size="3"><b>December</b>: Our paper <a href="https://arxiv.org/abs/2212.05116" target="_blank">"Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"</a> is on arXiv and being submitted for peer review!
+- <font size="3"><b>September</b>: My paper <a href="https://arxiv.org/abs/2304.00002" target="_blank">"Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"</a> is on arXiv!
 
 ------------------
 ## Papers
