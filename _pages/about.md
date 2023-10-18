@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 ## About Me
-I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated *summa cum laude* with a B.S. in Computer Science from [California Baptist University](https://calbaptist.edu){:target="_blank"} in Spring 2023.
+<font size="3"> I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated *summa cum laude* with a B.S. in Computer Science from [California Baptist University](https://calbaptist.edu){:target="_blank"} in Spring 2023. </font>
 
 My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Cross-Modal Transfer Learning. I seek to build models that can tacitly acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities.
 
