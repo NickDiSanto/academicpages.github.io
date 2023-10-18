@@ -4,7 +4,8 @@ title: "academicpages is a ready-to-fork GitHub Pages template for academic pers
 title: ""
 excerpt: "Papers"
 author_profile: true
-redirect_from: 
+redirect_from:
+  - /about.html
 ---
 <p style="margin-bottom:10px;"><font size="5"><b>Papers</b></font></p>
 - [Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data](https://arxiv.org/abs/2310.05378){:target="_blank"} \
