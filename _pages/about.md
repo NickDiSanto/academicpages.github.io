@@ -46,6 +46,7 @@ redirect_from:
   <li><font size="4"><b>March</b>:</font> <font size="3">Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"</font></li>
 </ul>
 
+------------------
 <font size="5"><b>2022</b></font>
 <ul style="list-style-type:disc;">
   <li><p style="margin-bottom:15px;"><font size="4"><b>December</b>:</font> <font size="3">Our paper <a href="https://arxiv.org/abs/2212.05116" target="_blank">"Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"</a> is on arXiv and being submitted for peer review!</font></p></li>
