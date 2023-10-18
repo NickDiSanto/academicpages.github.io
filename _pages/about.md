@@ -1,4 +1,4 @@
----
+s---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 title: ""
@@ -35,7 +35,7 @@ redirect_from:
 <p>I'm also passionate about playing chess and studying theory. Add me on <a href="https://lichess.org/@/Ncd3030" target="_blank">lichess</a> and challenge me to a game!</p></font>
 
 ------------------
-<p style="margin-bottom:10px;"><font size="6"><b>News</b></font></p>
+<p style="margin-bottom:15px;"><font size="6"><b>News</b></font></p>
 <font size="5"><b>2023</b></font>
 - <font size="3"><b>October</b>: Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"</a> is on arXiv and being submitted for peer review!</font>
 - <font size="3"><b>October</b>: Accepted a full-time position as a Software Engineer at General Electric</font>
