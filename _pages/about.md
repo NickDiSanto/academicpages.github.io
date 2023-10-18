@@ -10,11 +10,11 @@ redirect_from:
   - /about.html
 ---
 <style>
-  .bottom-three {
-     margin-bottom: 3cm;
+  .bottom-mrgn {
+     margin-bottom: 1cm;
   }
 </style>
-<p class="bottom-three"><font size="5"><b>About Me</b></font></p>
+<p class="bottom-mrgn"><font size="5"><b>About Me</b></font></p>
 <font size="3"><p>I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
 </p>
 <p>My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Cross-Modal Transfer Learning. I seek to build models that can tacitly acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities.
