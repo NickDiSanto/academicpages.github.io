@@ -34,8 +34,8 @@ If you're interested in my research or would like to collaborate, please <a href
 I'm also passionate about playing chess and studying theory. Add me on <a href="https://lichess.org/@/Ncd3030" target="_blank">lichess</a> and challenge me to a game!</font>
 
 ------------------
-# News
-## 2023
+## News
+### 2023
 - **October**: Our paper ["Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"](https://arxiv.org/abs/2310.05378){:target="_blank"} is on arXiv and being submitted for peer review!
 - **October**: Accepted a full-time position as a Software Engineer at General Electric
 - **September**: Began NLP consulting for Sirch
@@ -43,12 +43,12 @@ I'm also passionate about playing chess and studying theory. Add me on <a href="
 - **April**: Graduated *summa cum laude* from California Baptist University and was awarded the "2023 CS Outstanding Student Award"
 - **March**: Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"
 
-## 2022
+### 2022
 - **December**: Our paper ["Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"](https://arxiv.org/abs/2212.05116){:target="_blank"} is on arXiv and being submitted for peer review!
 - **September**: My paper ["Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"](https://arxiv.org/abs/2304.00002){:target="_blank"} is on arXiv!
 
 ------------------
-# Papers
+## Papers
 
 - [Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data](https://arxiv.org/abs/2310.05378){:target="_blank"} \
 **N DiSanto**, A Corso, B Sanders, G Harding \
