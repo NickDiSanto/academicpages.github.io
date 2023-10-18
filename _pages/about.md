@@ -21,7 +21,7 @@ redirect_from:
 <p style="margin-bottom:10px;"><font size="5"><b>Current Work</b></font></p>
 <font size="3"><p>I'm currently investigating the capability of few-shot implicit learning of tokenized language to find abstract patterns in noisy social media data. Check out my <a href="https://scholar.google.com/citations?user=aZcG3noAAAAJ&hl=en&oi=ao" target="_blank">recent papers</a>!
 </p>
-<p>I am also an NLP consultant for <a href="https://bento.me/sirch" target="_blank">Sirch</a>, a startup that is creating a novel search engine, where I am build models that perform Query Auto-Completion (QAC), automated information retrieval, and Natural Language Understanding.
+<p>I am also an NLP consultant for <a href="https://bento.me/sirch" target="_blank">Sirch</a>, a startup that is creating a novel search engine, where I am building models that perform Query Auto-Completion (QAC), automated information retrieval, and Natural Language Understanding.
 </p>
 <p>I am an incoming Software Engineer at General Electric, starting in December. I will be building ML pipelines to perform big data analysis on renewable energy applications.
 </p>
