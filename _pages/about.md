@@ -29,9 +29,9 @@ redirect_from:
 
 ------------------
 <p style="margin-bottom:10px;"><font size="5"><b>Outside of Research</b></font></p>
-<font size="3"><p>In my free time, I play/watch basketball and hang out with my wife and cats. I consider myself to be a <a href="https://medium.com/dear-family/curiosity-is-your-superpower-how-to-become-a-lifelong-learner-8ca5eeb6fe37" target="_blank">lifelong learner</a>, seeking incremental progress every day!
+<font size="3"><p>In my free time, I play/watch basketball and hang out with my wife and cats. I also consider myself to be a <a href="https://medium.com/dear-family/curiosity-is-your-superpower-how-to-become-a-lifelong-learner-8ca5eeb6fe37" target="_blank">lifelong learner</a>, seeking incremental progress every day!
 </p>
-<p>I'm also passionate about playing chess and studying theory. Add me on <a href="https://lichess.org/@/Ncd3030" target="_blank">lichess</a> and challenge me to a game!</p></font>
+<p>I'm passionate about playing chess and studying theory. Add me on <a href="https://lichess.org/@/Ncd3030" target="_blank">lichess</a> and challenge me to a game!</p></font>
 
 ------------------
 <p style="margin-bottom:15px;"><font size="6"><b>News</b></font></p>
