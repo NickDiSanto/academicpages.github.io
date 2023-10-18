@@ -19,7 +19,7 @@ redirect_from:
 
 ------------------
 <p style="margin-bottom:10px;"><font size="5"><b>Current Work</b></font></p>
-<font size="3"><p>Some of my recent research investigates the capability of few-shot implicit learning of tokenized language to find abstract patterns in noisy social media data. This has uncovered fascinating empirical evidence that abstract patterns in online communication are geospatially influenced and that low-level models are capable of capturing subtle correlations in the aggregate.
+<font size="3"><p>Some of my recent research investigates the capability of few-shot implicit learning of tokenized language to find patterns in noisy social media data. This has uncovered fascinating empirical evidence that abstract patterns in online communication are geospatially influenced and that low-level models are capable of capturing subtle correlations in the aggregate.
 </p>
 <p>I am also an NLP consultant for <a href="https://bento.me/sirch" target="_blank">Sirch</a>, a startup that is creating a novel search engine, where I am building models that perform Query Auto-Completion (QAC), automated information retrieval, and Natural Language Understanding.
 </p>
