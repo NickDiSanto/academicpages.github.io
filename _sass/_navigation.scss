@@ -134,7 +134,11 @@
     color: mix(#fff, $gray, 50%);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
-
+     
+    &:hover {
+      color: $link-color-hover;
+    }
+     
     &:first-child {
       border-top-right-radius: 0;
       border-bottom-right-radius: 0;
@@ -321,9 +325,9 @@
     padding: 0.125em 0;
     color: inherit;
 
-    &:hover {
-      text-decoration: underline;
-    }
+    // &:hover {
+    //   text-decoration: underline;
+    // }
   }
 
   .active {
