@@ -2,14 +2,13 @@
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 title: ""
-excerpt: "About me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
 redirect_from:
   - /about/
   - /about.html
 ---
-
 ## About Me
 <font size="3">I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.<br><br>
 
