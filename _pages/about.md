@@ -8,13 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-a {
-   color: #1E7EC8;
-   text-decoration: none; // changed from text-decoration:underline
-}
-a:hover {
-   text-decoration: underline; // changed from text:decoration:none
-}
 <p style="margin-bottom:10px;"><font size="5"><b>About Me</b></font></p>
 <font size="3"><p>I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
 </p>
@@ -22,7 +15,7 @@ a:hover {
 </p>
 <p>My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent, adaptable, and human-centered agents.
 </p>
-<p>For more information, check out my <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank" text-decoration: none>CV</a>!</p></font>
+<p>For more information, check out my <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">CV</a>!</p></font>
 
 ------------------
 <p style="margin-bottom:10px;"><font size="5"><b>Current Work</b></font></p>
