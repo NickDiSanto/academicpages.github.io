@@ -42,7 +42,7 @@ redirect_from:
   <li><p style="margin-bottom:15px;"><font size="4"><b>October</b>:</font> <font size="3">Accepted a full-time position as a Software Engineer at General Electric</font></p></li>
   <li><p style="margin-bottom:15px;"><font size="4"><b>September</b>:</font> <font size="3">Began NLP consulting for Sirch</font></p></li>
   <li><p style="margin-bottom:15px;"><font size="4"><b>May</b>:</font> <font size="3">Began an internship at General Electric</font></p></li>
-  <li><p style="margin-bottom:15px;"><font size="4"><b>April</b>:</font> <font size="3">Graduated *summa cum laude* from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</font></p></li>
+  <li><p style="margin-bottom:15px;"><font size="4"><b>April</b>:</font> <font size="3">Graduated <i>summa cum laude</i> from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</font></p></li>
   <li><font size="4"><b>March</b>:</font> <font size="3">Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"</font></li>
 </ul>
 
