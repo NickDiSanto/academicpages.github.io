@@ -10,13 +10,13 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-<font size="3">I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.<br><br>
-
-My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Cross-Modal Transfer Learning. I seek to build models that can tacitly acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities.<br><br>
-
-My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent, adaptable, and human-centered agents.<br><br>
-
-For more information, check out my <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">CV</a>!</font>
+<font size="3"><p>I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
+</p>
+<p>My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Cross-Modal Transfer Learning. I seek to build models that can tacitly acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities.
+</p>
+<p>My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent, adaptable, and human-centered agents.
+</p>
+<p>For more information, check out my <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">CV</a>!</p></font>
 
 ## Current Work
 <font size="3">I'm currently investigating the capability of few-shot implicit learning of tokenized language to find abstract patterns in noisy social media data. Check out my <a href="https://scholar.google.com/citations?user=aZcG3noAAAAJ&hl=en&oi=ao" target="_blank">recent papers</a>!<br><br>
