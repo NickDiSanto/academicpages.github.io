@@ -13,7 +13,7 @@ redirect_from:
 </p>
 <p>My research broadly spans Machine Learning, but my current interests include <b>Natural Language Processing</b>, <b>Cross-Modal Transfer Learning</b>, and <b>grounding intelligence in perception</b>. I seek to build neurosymbolic models that can tacitly acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities.
 </p>
-<p>My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent, adaptable, and human-centered agents.
+<p>My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more generalizable and human-centered agents.
 </p>
 <p>For more information, check out my <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">CV</a>!</p></font>
 
