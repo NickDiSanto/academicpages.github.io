@@ -11,7 +11,7 @@ redirect_from:
 <p style="margin-bottom:10px;"><font size="5"><b>About Me</b></font></p>
 <font size="3"><p>I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
 </p>
-<p>My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Cross-Modal Transfer Learning, along with their implications in cognitive science. I seek to build models that can tacitly acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities.
+<p>My research broadly spans Machine Learning, but my current interests are in Natural Language Processing and Cross-Modal Transfer Learning, along with grounding intelligence in perception. I seek to build neurosymbolic models that can tacitly acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities.
 </p>
 <p>My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more intelligent, adaptable, and human-centered agents.
 </p>
@@ -19,7 +19,7 @@ redirect_from:
 
 ------------------
 <p style="margin-bottom:10px;"><font size="5"><b>Current Work</b></font></p>
-<font size="3"><p>Some of my recent research investigates the capability of few-shot implicit learning of tokenized language to find patterns in noisy social media data. This has uncovered fascinating empirical evidence that abstract patterns in online communication are geospatially influenced and that low-level models are capable of capturing subtle correlations in the aggregate.
+<font size="3"><p>Some of my recent research investigates the capability of implicit learning to find patterns in unstructured and noisy social media data. This has uncovered fascinating empirical evidence that abstract patterns in online communication are geospatially influenced and that low-level models are capable of capturing subtle correlations in the aggregate.
 </p>
 <p>I am also an NLP consultant for <a href="https://bento.me/sirch" target="_blank">Sirch</a>, a startup that is creating a novel search engine, where I am building models that perform Query Auto-Completion (QAC), automated information retrieval, and Natural Language Understanding.
 </p>
