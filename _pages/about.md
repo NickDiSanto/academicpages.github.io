@@ -9,11 +9,11 @@ redirect_from:
   - /about.html
 ---
 <p style="margin-bottom:10px;"><font size="5"><b>About Me</b></font></p>
-<p style="margin-bottom:10px; font-size: 30px"><b>About Me</b></font></p>
+<p style="margin-bottom:10px; font-size: 20px"><b>About Me</b></p>
 
 <font size="3"><p>I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
 </p>
-<p style="font-size: 18px">I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
+<p style="font-size: 12px">I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
 </p>
 <p>My research broadly spans Machine Learning, but my current interests include <b>Natural Language Processing</b>, <b>Cross-Modal Transfer Learning</b>, and <b>grounding intelligence in perception</b>. I seek to build neurosymbolic models that can tacitly acquire comprehensive insights about the world from a specific domain and generalize that knowledge across various modalities.
 </p>
@@ -48,7 +48,7 @@ redirect_from:
   <li><p style="margin-bottom:15px;"><font size="4"><b>May</b>:</font> <font size="3">Began an internship at General Electric</font></p></li>
   <li><p style="margin-bottom:15px;"><font size="4"><b>April</b>:</font> <font size="3">Graduated <i>summa cum laude</i> from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</font></p></li>
   <li><font size="4"><b>March</b>:</font> <font size="3">Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"</font></li>
-  <li><p style="font-size: 24px"><b>March</b>:</p> <font size="3">Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"</font></li>
+  <li><p style="font-size: 16px"><b>March</b>:</p> <font size="3">Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"</font></li>
 </ul>
 
 ------------------
