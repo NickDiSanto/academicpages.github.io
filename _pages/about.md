@@ -15,7 +15,7 @@ redirect_from:
 </p>
 <p>My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more generalizable and human-centered agents.
 </p>
-<p>For more information, check out my <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">CV</a>!</p></font>
+<p>For more information, <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">check out my CV</a>!</p></font>
 
 ------------------
 <p style="margin-bottom:10px;"><font size="5"><b>Current Work</b></font></p>
