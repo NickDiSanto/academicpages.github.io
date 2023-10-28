@@ -19,7 +19,7 @@ redirect_from:
 
 ------------------
 <p style="margin-bottom:10px;"><font size="5"><b>Current Work</b></font></p>
-<font size="3"><p>Some of my recent research investigates the capability of implicit learning to find patterns in unstructured and noisy social media data. This has uncovered fascinating empirical evidence that abstract patterns in online communication are geospatially influenced and that low-level models are capable of capturing subtle correlations in the aggregate.
+<font size="3"><p>My recent <b>NLP</b> research <a href="https://arxiv.org/abs/2310.05378" target="_blank">investigates implicit learning to find abstract patterns in unstructured and noisy social media data</a>, challenging the necessity of complex algorithms for natural language pattern recognition. In <b>Computer Vision</b>, my research has <a href="https://arxiv.org/abs/2212.05116" target="_blank">proposed a novel method of data preprocessing</a> that allows dermascopic imaging models to better perceive their environments and democratizes accessibility for underrepresented communities. My <b>cognitive science</b>, research establishes abstract contextual features necessary for tacit learning, multimodal comprehension, and cognitive perception.
 </p>
 <p>I am also an NLP consultant for <a href="https://bento.me/sirch" target="_blank">Sirch</a>, a startup that is creating a novel search engine, where I am building models that perform Query Auto-Completion (QAC), automated information retrieval, and Natural Language Understanding.
 </p>
