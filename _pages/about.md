@@ -24,7 +24,7 @@ redirect_from:
 </p>
 <p style="font-size: 14px">I am also an NLP consultant for <a href="https://bento.me/sirch" target="_blank">Sirch</a>, a startup that is creating a novel search engine, where I am building models that perform Query Auto-Completion (QAC), automated information retrieval, and Natural Language Understanding.
 </p>
-<p style="font-size: 14px">I am an incoming Software Engineer at General Electric, starting in December. I will be building big data ML pipelines for renewable energy applications.
+<p style="font-size: 14px">I will be joining General Electric as a Software Engineer in December, where I will be building big data ML pipelines for renewable energy applications.
 </p>
 <p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nick.c.disanto@gmail.com">reach out</a>! I'm always interested in taking on new and exciting projects.</p>
 
