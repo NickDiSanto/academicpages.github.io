@@ -27,7 +27,7 @@ redirect_from:
 <p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nick.c.disanto@gmail.com">reach out</a>! I'm always interested in taking on new and exciting projects.</p>
 
 ------------------
-<p style="font-size: 20px"><b>Teaching</b></p>
+<p style="margin-bottom:10px; font-size: 20px"><b>Teaching</b></p>
 <ul style="list-style-type:disc;">
   <li><p style="margin-bottom:5px; font-size: 14px"><b>Intro to C++</b>, <i>Teaching Assistant</i>, Spring 2023</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>Discrete Structures</b>, <i>Teaching Assistant</i>, Fall 2022</p></li>
@@ -37,9 +37,9 @@ redirect_from:
 </ul>
 
 ------------------
-<p style="margin-bottom:15px; font-size: 24px"><b>News</b></p>
+<p style="margin-bottom:10px; font-size: 24px"><b>News</b></p>
 
-<p style="font-size: 20px"><b>2023</b></p>
+<p style="margin-bottom:10px; font-size: 20px"><b>2023</b></p>
 <ul style="list-style-type:disc;">
   <li><p style="margin-bottom:5px; font-size: 14px"><b>October</b>: Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"</a> is on arXiv and being submitted for peer review!</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>October</b>: Accepted a full-time position as a Software Engineer at General Electric</p></li>
@@ -50,7 +50,7 @@ redirect_from:
 </ul>
 
 ------------------
-<p style="font-size: 20px"><b>2022</b></p>
+<p style="margin-bottom:10px; font-size: 20px"><b>2022</b></p>
 <ul style="list-style-type:disc;">
   <li><p style="margin-bottom:5px; font-size: 14px"><b>December</b>: Our paper <a href="https://arxiv.org/abs/2212.05116" target="_blank">"Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"</a> is on arXiv and being submitted for peer review!</p></li>
   <li><p style="font-size: 14px"><b>September</b>: My paper <a href="https://arxiv.org/abs/2304.00002" target="_blank">"Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"</a> is on arXiv!</p></li>
