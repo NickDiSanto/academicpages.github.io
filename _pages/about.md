@@ -29,7 +29,7 @@ redirect_from:
 <p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nick.c.disanto@gmail.com">reach out</a>! I'm always interested in taking on new and exciting projects.</p>
 
 ------------------
-<font-size: 20px"><b>Teaching</b></p>
+<p style="font-size: 20px"><b>Teaching</b></p>
 <ul style="list-style-type:disc;">
   <li><p style="margin-bottom:15px; font-size: 14px"><b>Intro to C++</b>, <i>Teaching Assistant</i>, Spring 2023</p></li>
   <li><p style="margin-bottom:15px; font-size: 14px"><b>Discrete Structures</b>, <i>Teaching Assistant</i>, Fall 2022</p></li>
