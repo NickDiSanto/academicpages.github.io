@@ -37,7 +37,7 @@ redirect_from:
 </ul>
 
 ------------------
-<p style="margin-bottom:12px; font-size: 24px"><b>News</b></p>
+<p style="margin-bottom:15px; font-size: 24px"><b>News</b></p>
 
 <p style="margin-bottom:5px; font-size: 20px"><b>2023</b></p>
 <ul style="list-style-type:disc;">
