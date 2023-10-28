@@ -31,18 +31,12 @@ redirect_from:
 ------------------
 <p style="margin-bottom:10px; font-size: 20px"><b>Teaching</b></p>
 <ul style="list-style-type:disc;">
-  <li><p style="margin-bottom:15px; font-size: 14px">Intro to C++, <i>Teaching Assistant</i>, Spring 2023</p></li>
-  <li><p style="margin-bottom:15px; font-size: 14px">Discrete Structures, <i>Teaching Assistant</i>, Fall 2022</p></li>
-  <li><p style="margin-bottom:15px; font-size: 14px">Algorithms, <i>Tutor</i>, Spring 2022</p></li>
-  <li><p style="margin-bottom:15px; font-size: 14px">Computer Architecture, <i>Tutor</i>, Spring 2022</p></li>
-  <li><p style="margin-bottom:15px; font-size: 14px">Physics for Engineers II, <i>Teaching Assistant</i>, FA/SP 2021</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px"><b>Intro to C++</b>, <i>Teaching Assistant</i>, Spring 2023</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px"><b>Discrete Structures</b>, <i>Teaching Assistant</i>, Fall 2022</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px"><b>Algorithms</b>, <i>Tutor</i>, Spring 2022</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px"><b>Computer Architecture</b>, <i>Tutor</i>, Spring 2022</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px"><b>Physics for Engineers II</b>, <i>Teaching Assistant</i>, FA/SP 2021</p></li>
 </ul>
-
-------------------
-<p style="margin-bottom:10px; font-size: 20px"><b>Fun</b></p>
-<p style="font-size: 14px">In my free time, I play/watch basketball and watch Harry Potter with my wife and cats. I also consider myself to be a <a href="https://medium.com/dear-family/curiosity-is-your-superpower-how-to-become-a-lifelong-learner-8ca5eeb6fe37" target="_blank">lifelong learner</a>, seeking incremental progress every day!
-</p>
-<p style="font-size: 14px">I'm passionate about playing chess and studying theory. Add me on <a href="https://lichess.org/@/Ncd3030" target="_blank">lichess</a> and challenge me to a game!</p>
 
 ------------------
 <p style="margin-bottom:15px; font-size: 26px"><b>News</b></p>
@@ -63,3 +57,9 @@ redirect_from:
   <li><p style="margin-bottom:15px; font-size: 14px"><b>December</b>: Our paper <a href="https://arxiv.org/abs/2212.05116" target="_blank">"Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"</a> is on arXiv and being submitted for peer review!</p></li>
   <li><p style="margin-bottom:15px; font-size: 14px"><b>September</b>: My paper <a href="https://arxiv.org/abs/2304.00002" target="_blank">"Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"</a> is on arXiv!</p></li>
 </ul>
+
+------------------
+<p style="margin-bottom:10px; font-size: 20px"><b>Miscellaneous</b></p>
+<p style="font-size: 14px">In my free time, I play/watch basketball and watch Harry Potter with my wife and cats. I also consider myself to be a <a href="https://medium.com/dear-family/curiosity-is-your-superpower-how-to-become-a-lifelong-learner-8ca5eeb6fe37" target="_blank">lifelong learner</a>, seeking incremental progress every day!
+</p>
+<p style="font-size: 14px">I'm passionate about playing chess and studying theory. Add me on <a href="https://lichess.org/@/Ncd3030" target="_blank">lichess</a> and challenge me to a game!</p>
