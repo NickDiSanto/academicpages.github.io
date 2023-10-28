@@ -24,12 +24,12 @@ redirect_from:
 </p>
 <p style="font-size: 14px">I am also an NLP consultant for <a href="https://bento.me/sirch" target="_blank">Sirch</a>, a startup that is creating a novel search engine, where I am building models that perform Query Auto-Completion (QAC), automated information retrieval, and Natural Language Understanding.
 </p>
-<p style="font-size: 14px">I am an incoming Software Engineer at General Electric, starting in December. I will be building ML pipelines to perform big data analysis on renewable energy applications.
+<p style="font-size: 14px">I am an incoming Software Engineer at General Electric, starting in December. I will be building big data ML pipelines for renewable energy applications.
 </p>
 <p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nick.c.disanto@gmail.com">reach out</a>! I'm always interested in taking on new and exciting projects.</p>
 
 ------------------
-<p style="margin-bottom:10px; font-size: 20px"><b>Teaching</b></p>
+<font-size: 20px"><b>Teaching</b></p>
 <ul style="list-style-type:disc;">
   <li><p style="margin-bottom:15px; font-size: 14px"><b>Intro to C++</b>, <i>Teaching Assistant</i>, Spring 2023</p></li>
   <li><p style="margin-bottom:15px; font-size: 14px"><b>Discrete Structures</b>, <i>Teaching Assistant</i>, Fall 2022</p></li>
@@ -39,7 +39,7 @@ redirect_from:
 </ul>
 
 ------------------
-<p style="margin-bottom:15px; font-size: 26px"><b>News</b></p>
+<p style="margin-bottom:15px; font-size: 24px"><b>News</b></p>
 
 <p style="font-size: 20px"><b>2023</b></p>
 <ul style="list-style-type:disc;">
