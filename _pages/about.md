@@ -19,14 +19,24 @@ redirect_from:
 <p style="font-size: 14px">For more information, <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">check out my CV</a>!</p>
 
 ------------------
-<p style="margin-bottom:10px; font-size: 20px"><b>My Research</b></p>
-<p style="font-size: 14px">My recent <b>NLP</b> research <a href="https://arxiv.org/abs/2310.05378" target="_blank">investigates implicit learning</a> to find abstract patterns in noisy social media data, challenging the necessity of complex algorithms. In <b>computer vision</b>, my research has <a href="https://arxiv.org/abs/2212.05116" target="_blank">proposed a novel method of data preprocessing</a> that allows dermascopic imaging models to better perceive their environments. My <b>cognitive science</b> research <a href="https://arxiv.org/abs/2304.00002" target="_blank">establishes abstract contextual features</a> necessary for cognitive perception.
+<p style="margin-bottom:10px; font-size: 20px"><b>Research and Current Work</b></p>
+<p style="font-size: 14px">My recent <b>NLP</b> research <a href="https://arxiv.org/abs/2310.05378" target="_blank">investigates implicit learning</a> to find abstract patterns in noisy social media data, challenging the necessity of complex algorithms. In <b>computer vision</b>, my research has proposed <a href="https://arxiv.org/abs/2212.05116" target="_blank">a novel method of data preprocessing</a> that allows dermascopic imaging models to better perceive their environments. My <b>cognitive science</b> research <a href="https://arxiv.org/abs/2304.00002" target="_blank">establishes abstract contextual features</a> necessary for cognitive perception.
 </p>
 <p style="font-size: 14px">I am also an NLP consultant for <a href="https://bento.me/sirch" target="_blank">Sirch</a>, a startup that is creating a novel search engine, where I am building models that perform Query Auto-Completion (QAC), automated information retrieval, and Natural Language Understanding.
 </p>
 <p style="font-size: 14px">I am an incoming Software Engineer at General Electric, starting in December. I will be building ML pipelines to perform big data analysis on renewable energy applications.
 </p>
 <p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nick.c.disanto@gmail.com">reach out</a>! I'm always interested in taking on new and exciting projects.</p>
+
+------------------
+<p style="margin-bottom:10px; font-size: 20px"><b>Teaching</b></p>
+<ul style="list-style-type:disc;">
+  <li><p style="margin-bottom:15px; font-size: 14px">Intro to C++, <i>Teaching Assistant</i>, Spring 2023</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px">Discrete Structures, <i>Teaching Assistant</i>, Fall 2022</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px">Algorithms, <i>Tutor</i>, Spring 2022</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px">Computer Architecture, <i>Tutor</i>, Spring 2022</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px">Physics for Engineers II, <i>Teaching Assistant</i>, FA/SP 2021</p></li>
+</ul>
 
 ------------------
 <p style="margin-bottom:10px; font-size: 20px"><b>Fun</b></p>
@@ -39,17 +49,17 @@ redirect_from:
 
 <p style="font-size: 20px"><b>2023</b></p>
 <ul style="list-style-type:disc;">
-  <li><p style="margin-bottom:15px; font-size: 16px"><b>October</b>:</p> <p style="font-size: 14px">Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"</a> is on arXiv and being submitted for peer review!</p></li>
-  <li><p style="margin-bottom:15px; font-size: 16px"><b>October</b>:</p> <p style="font-size: 14px">Accepted a full-time position as a Software Engineer at General Electric</p></li>
-  <li><p style="margin-bottom:15px; font-size: 16px"><b>September</b>:</p> <p style="font-size: 14px">Began NLP consulting for Sirch</p></li>
-  <li><p style="margin-bottom:15px; font-size: 16px"><b>May</b>:</p> <p style="font-size: 14px">Began an internship at General Electric</p></li>
-  <li><p style="margin-bottom:15px; font-size: 16px"><b>April</b>:</p> <p style="font-size: 14px">Graduated <i>summa cum laude</i> from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</p></li>
-  <li><p style="font-size: 16px"><b>March</b>:</p> <p style="font-size: 14px">Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px"><b>October</b>: Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"</a> is on arXiv and being submitted for peer review!</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px"><b>October</b>: Accepted a full-time position as a Software Engineer at General Electric</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px"><b>September</b>: Began NLP consulting for Sirch</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px"><b>May</b>: Began an internship at General Electric</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px"><b>April</b>: Graduated <i>summa cum laude</i> from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</p></li>
+  <li><p style="font-size: 14px"><b>March</b>: Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"</p></li>
 </ul>
 
 ------------------
 <p style="font-size: 20px"><b>2022</b></p>
 <ul style="list-style-type:disc;">
-  <li><p style="margin-bottom:15px; font-size: 16px"><b>December</b>:</p> <p style="font-size: 14px">Our paper <a href="https://arxiv.org/abs/2212.05116" target="_blank">"Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"</a> is on arXiv and being submitted for peer review!</p></li>
-  <li><p style="margin-bottom:15px; font-size: 16px"><b>September</b>:</p> <p style="font-size: 14px">My paper <a href="https://arxiv.org/abs/2304.00002" target="_blank">"Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"</a> is on arXiv!</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px"><b>December</b>: Our paper <a href="https://arxiv.org/abs/2212.05116" target="_blank">"Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"</a> is on arXiv and being submitted for peer review!</p></li>
+  <li><p style="margin-bottom:15px; font-size: 14px"><b>September</b>: My paper <a href="https://arxiv.org/abs/2304.00002" target="_blank">"Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"</a> is on arXiv!</p></li>
 </ul>
