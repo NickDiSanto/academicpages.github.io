@@ -41,19 +41,19 @@ redirect_from:
 
 <p style="font-size: 20px"><b>2023</b></p>
 <ul style="list-style-type:disc;">
-  <li><p style="margin-bottom:15px; font-size: 14px"><b>October</b>: Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"</a> is on arXiv and being submitted for peer review!</p></li>
-  <li><p style="margin-bottom:15px; font-size: 14px"><b>October</b>: Accepted a full-time position as a Software Engineer at General Electric</p></li>
-  <li><p style="margin-bottom:15px; font-size: 14px"><b>September</b>: Began NLP consulting for Sirch</p></li>
-  <li><p style="margin-bottom:15px; font-size: 14px"><b>May</b>: Began an internship at General Electric</p></li>
-  <li><p style="margin-bottom:15px; font-size: 14px"><b>April</b>: Graduated <i>summa cum laude</i> from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</p></li>
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>October</b>: Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"</a> is on arXiv and being submitted for peer review!</p></li>
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>October</b>: Accepted a full-time position as a Software Engineer at General Electric</p></li>
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>September</b>: Began NLP consulting for Sirch</p></li>
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>May</b>: Began an internship at General Electric</p></li>
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>April</b>: Graduated <i>summa cum laude</i> from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</p></li>
   <li><p style="font-size: 14px"><b>March</b>: Presented a poster on our research findings: "Twitter2030 – Empirical Social Media Analysis"</p></li>
 </ul>
 
 ------------------
 <p style="font-size: 20px"><b>2022</b></p>
 <ul style="list-style-type:disc;">
-  <li><p style="margin-bottom:15px; font-size: 14px"><b>December</b>: Our paper <a href="https://arxiv.org/abs/2212.05116" target="_blank">"Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"</a> is on arXiv and being submitted for peer review!</p></li>
-  <li><p style="margin-bottom:15px; font-size: 14px"><b>September</b>: My paper <a href="https://arxiv.org/abs/2304.00002" target="_blank">"Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"</a> is on arXiv!</p></li>
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>December</b>: Our paper <a href="https://arxiv.org/abs/2212.05116" target="_blank">"Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"</a> is on arXiv and being submitted for peer review!</p></li>
+  <li><p style="font-size: 14px"><b>September</b>: My paper <a href="https://arxiv.org/abs/2304.00002" target="_blank">"Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"</a> is on arXiv!</p></li>
 </ul>
 
 ------------------
