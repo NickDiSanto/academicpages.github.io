@@ -16,15 +16,15 @@ redirect_from:
 </p>
 <p style="font-size: 14px">My goal is to bridge the gap between language and vision, construct computational models that capture the intricacies of cognition, and pave the way for more generalizable and human-centered agents.
 </p>
-<p style="font-size: 14px">For more information, <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">check out my CV</a>!</p>
+<p style="font-size: 14px">For more information, <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">check out my CV!</a></p>
 
 ------------------
 <p style="margin-bottom:10px; font-size: 20px"><b>Research & Current Work</b></p>
-<p style="font-size: 14px">My recent <b>NLP</b> research investigates <a href="https://arxiv.org/abs/2310.05378" target="_blank">implicit learning to find abstract patterns</a> in noisy social media data, challenging the necessity of complex algorithms. My <b>computer vision</b> research proposes <a href="https://arxiv.org/abs/2212.05116" target="_blank">a novel method of data preprocessing</a> that allows medical imaging models to better perceive their environments. My <b>cognitive science</b> research <a href="https://arxiv.org/abs/2304.00002" target="_blank">establishes abstract contextual features</a> necessary for cognitive perception.
+<p style="font-size: 14px">My recent <b>NLP</b> research investigates <a href="https://arxiv.org/abs/2310.05378" target="_blank">representation learning to find abstract patterns</a> in noisy social media data, challenging the necessity of complex algorithms. My <b>computer vision</b> research proposes <a href="https://arxiv.org/abs/2212.05116" target="_blank">a novel method of data preprocessing</a> that allows medical imaging models to better perceive their environments. My <b>cognitive science</b> research <a href="https://arxiv.org/abs/2304.00002" target="_blank">establishes abstract contextual features</a> necessary for cognitive perception.
 </p>
 <p style="font-size: 14px">I am also an NLP consultant for <a href="https://bento.me/sirch" target="_blank">Sirch</a>, where I am building models that perform Query Auto-Completion (QAC), information retrieval, and NLU. In December, I will join General Electric as a Software Engineer, where I will build big data ML pipelines for renewable energy applications.
 </p>
-<p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nick.c.disanto@gmail.com">reach out</a>! I'm always interested in taking on new and exciting projects.</p>
+<p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nick.c.disanto@gmail.com">reach out!</a> I'm always interested in taking on new and exciting projects.</p>
 
 ------------------
 <p style="margin-bottom:5px; font-size: 20px"><b>Teaching</b></p>
@@ -41,7 +41,7 @@ redirect_from:
 
 <p style="margin-bottom:5px; font-size: 20px"><b>2023</b></p>
 <ul style="list-style-type:disc; margin-top:-2px">
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>October</b>: Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data"</a> is on arXiv and being submitted for peer review!</p></li>
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>October</b>: Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"Transcending the Attention Paradigm: Representation Learning from Geospatial Social Media Data"</a> is on arXiv and being submitted for peer review!</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>October</b>: Accepted a full-time position as a Software Engineer at General Electric</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>September</b>: Began NLP consulting for Sirch</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>May</b>: Began an internship at General Electric</p></li>
