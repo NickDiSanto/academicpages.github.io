@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p style="margin-bottom:10px;"><font size="5"><b>Papers</b></font></p>
-- <a href = "https://arxiv.org/abs/2310.05378">Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data</a> \
+- <a href = "https://arxiv.org/abs/2310.05378">Transcending the Attention Paradigm: Representation Learning from Geospatial Social Media Data</a> \
 **N DiSanto**, A Corso, B Sanders, G Harding \
 *In Submission, 2023*
 
