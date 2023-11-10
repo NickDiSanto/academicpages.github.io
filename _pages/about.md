@@ -61,3 +61,18 @@ redirect_from:
 <p style="font-size: 14px">In my free time, I play/watch basketball and watch Harry Potter with my wife and cats. I also consider myself to be a <a href="https://medium.com/dear-family/curiosity-is-your-superpower-how-to-become-a-lifelong-learner-8ca5eeb6fe37" target="_blank">lifelong learner</a>, seeking incremental progress every day!
 </p>
 <p style="font-size: 14px">I'm passionate about playing chess and studying theory. Add me on <a href="https://lichess.org/@/Ncd3030" target="_blank">lichess</a> and challenge me to a game!</p>
+
+<div id="footer">
+  <div class="container">
+    <div class="row centered">
+
+      <div class="col-lg-2 col-lg-offset-5">
+
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Qqhz0-BdyyED11hEBKUrrGm_EgsMT9ih1V0X9_cPoUY"></script>
+
+
+      </div>
+    </div>
+
+  </div>
+</div>
