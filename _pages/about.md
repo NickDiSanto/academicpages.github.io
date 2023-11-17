@@ -12,7 +12,7 @@ redirect_from:
 
 <p style="font-size: 14px">I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
 </p>
-<p style="font-size: 14px">My research broadly spans Machine Learning, but my main interests are in <b>Natural Language Processing</b>, <b>Cross-Modal Transfer Learning</b>, and <b>grounding intelligence in perception</b>.
+<p style="font-size: 14px">My research broadly spans Machine Learning, but my main interest is in <b>grounding intelligence in perception</b> through <b>Natural Language Processing</b> and <b>Transmodal Learning</b>.
 </p>
 <p style="font-size: 14px">My goal is to build neurosymbolic models that can bridge the gap between language and vision, tacitly capture the intricacies of cognition, and pave the way for more generalizable, multimodal, and human-centered agents.
 </p>
