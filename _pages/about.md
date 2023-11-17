@@ -14,7 +14,7 @@ redirect_from:
 </p>
 <p style="font-size: 14px">My research broadly spans Machine Learning, but my main interest is in <b>grounding intelligence in perception</b> through <b>Natural Language Processing</b> and <b>Transmodal Learning</b>.
 </p>
-<p style="font-size: 14px">My goal is to build neurosymbolic models that can bridge the gap between language and vision, tacitly capture the intricacies of cognition, and pave the way for more generalizable, multimodal, and human-centered agents.
+<p style="font-size: 14px">My goal is to build neurosymbolic models that can bridge the gap between language and vision, tacitly capture the intricacies of cognition, and pave the way for more generalizable and human-centered agents.
 </p>
 <p style="font-size: 14px">For more information, <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">check out my CV!</a></p>
 
