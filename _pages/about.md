@@ -53,7 +53,7 @@ redirect_from:
 <p style="margin-bottom:5px; font-size: 20px"><b>2022</b></p>
 <ul style="list-style-type:disc; margin-top:-2px">
   <li><p style="margin-bottom:5px; font-size: 14px"><b>December</b>: Our paper <a href="https://arxiv.org/abs/2212.05116" target="_blank">"Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection"</a> is on arXiv and being submitted for peer review!</p></li>
-  <li><p style="font-size: 14px"><b>September</b>: My paper <a href="https://arxiv.org/abs/2304.00002" target="_blank">"Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"</a> is on arXiv!</p></li>
+  <li><p style="font-size: 14px"><b>December</b>: My paper <a href="https://arxiv.org/abs/2304.00002" target="_blank">"Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception"</a> is on arXiv!</p></li>
 </ul>
 
 ------------------
