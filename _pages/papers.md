@@ -14,7 +14,7 @@ redirect_from:
 
 - Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition \
 A Corso, **N DiSanto**, N Corso, G Harding, B Sanders \
-*In Submission, 2023*
+*iConference 2024*
 
 - [Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection](https://arxiv.org/abs/2212.05116){:target="_blank"} \
 **N DiSanto**, G Harding, E Martinez, B Sanders \
