@@ -10,7 +10,7 @@ redirect_from:
 ---
 <p style="margin-bottom:10px; font-size: 20px"><b>About Me</b></p>
 
-<p style="font-size: 14px">I am a Machine Learning Researcher, NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
+<p style="font-size: 14px">I am a Machine Learning Researcher, ML/NLP Consultant, and Software Engineer from Irvine, California. I graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
 </p>
 <p style="font-size: 14px">My research broadly spans Machine Learning, but my main interest is in <b>grounding intelligence in perception</b> through <b>Natural Language Processing</b> and <b>Transmodal Learning</b>.
 </p>
