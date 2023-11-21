@@ -31,9 +31,9 @@ redirect_from:
 <ul style="list-style-type:disc; margin-top:-2px">
   <li><p style="margin-bottom:5px; font-size: 14px"><b>Intro to C++</b>, <i>Teaching Assistant</i>, Spring 2023</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>Discrete Structures</b>, <i>Teaching Assistant</i>, Fall 2022</p></li>
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>Algorithms</b>, <i>Tutor</i>, Spring 2022</p></li>
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>Computer Architecture</b>, <i>Tutor</i>, Spring 2022</p></li>
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>Physics for Engineers II</b>, <i>Teaching Assistant</i>, FA/SP 2021</p></li>
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>Algorithms</b>, <i>Tutor</i>, Spring 2021, SP/FA 2022</p></li>
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>Computer Architecture</b>, <i>Tutor</i>, SP/FA 2022</p></li>
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>Physics for Engineers II</b>, <i>Teaching Assistant</i>, SP/FA 2021</p></li>
 </ul>
 
 ------------------
