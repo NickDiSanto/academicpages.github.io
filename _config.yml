@@ -10,9 +10,9 @@ locale                   : "en-US"
 title                    : "Nick DiSanto"
 title_separator          : "-"
 name                     : &name "Nick DiSanto"
-description              : &description |
-    ML Researcher | SWE @ GE |
-    ML/NLP Consultant
+description              : >
+  ML Researcher | SWE @ GE |
+  ML/NLP Consultant
 url                      : https://nickdisanto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NickDiSanto/NickDiSanto.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Nick DiSanto"
   avatar           : "profile_pic_cropped.JPG"
-  bio              : |
+  bio              : >
     ML Researcher | SWE @ GE |
     ML/NLP Consultant
   location         :
