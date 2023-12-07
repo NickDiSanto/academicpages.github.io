@@ -15,7 +15,7 @@ A Corso, **N DiSanto**, N Corso, E Lee \
 
 - <a href = "https://arxiv.org/abs/2310.05378">Transcending the Attention Paradigm: Representation Learning from Geospatial Social Media Data</a> \
 **N DiSanto**, A Corso, B Sanders, G Harding \
-*Under Review, 2023*
+*[Under Review @ AAAI], 2023*
 
 - <a href = "https://arxiv.org/abs/2212.05116">Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection</a> \
 **N DiSanto**, G Harding, E Martinez, B Sanders \
