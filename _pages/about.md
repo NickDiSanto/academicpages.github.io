@@ -41,9 +41,9 @@ redirect_from:
 
 <p style="margin-bottom:5px; font-size: 20px"><b>2023</b></p>
 <ul style="list-style-type:disc; margin-top:-2px">
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>December</b>: Accepted a full-time position as a Software Engineer at General Electric</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>November</b>: Our paper "Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition" has been accepted to iConference 2024!</p></li> 
   <li><p style="margin-bottom:5px; font-size: 14px"><b>October</b>: Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"Transcending the Attention Paradigm: Representation Learning from Geospatial Social Media Data"</a> is on arXiv and being submitted for peer review!</p></li>
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>October</b>: Accepted a full-time position as a Software Engineer at General Electric</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>September</b>: Began NLP consulting for Sirch</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>May</b>: Began an internship at General Electric</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>April</b>: Graduated <i>summa cum laude</i> from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</p></li>
