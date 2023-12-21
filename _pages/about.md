@@ -60,4 +60,4 @@ redirect_from:
 ------------------
 <p style="margin-bottom:10px; font-size: 20px"><b>Miscellaneous</b></p>
 <p style="font-size: 14px">In my free time, I play/watch basketball and watch Harry Potter with my wife and cats.</p>
-<p style="font-size: 14px">I'm also passionate about playing chess and studying theory. Add me on <a href="https://lichess.org/@/Ncd3030" target="_blank">lichess</a> and challenge me to a game!</p>
+<p style="font-size: 14px">I'm also passionate about playing chess and studying theory. <a href="https://lichess.org/@/Ncd3030" target="_blank">Add me on lichess</a> and challenge me to a game!</p>
