@@ -22,7 +22,7 @@ redirect_from:
 <p style="margin-bottom:10px; font-size: 20px"><b>Current Work</b></p>
 <p style="font-size: 14px">My recent <b>NLP</b> research <a href="https://arxiv.org/abs/2310.05378" target="_blank">investigates representation learning to find abstract patterns</a> in noisy social media data, challenging the necessity of complex architectures for NLU. My <b>computer vision</b> research <a href="https://arxiv.org/abs/2212.05116" target="_blank">proposes a novel approach to data preprocessing</a> that introduces noise and makes medical imaging models more generalizable and accessible. My <b>cognitive science</b> research <a href="https://arxiv.org/abs/2304.00002" target="_blank">establishes abstract contextual features</a> necessary for cognitive perception.
 </p>
-<p style="font-size: 14px">I am currently a Software Engineer at GE, where I am building ML pipelines for analysis of grid solutions and renewable energy applications. Previously, I was an NLP consultant for <a href="https://bento.me/sirch" target="_blank">Sirch</a>, where I built models that perform Query Auto-Completion (QAC), information retrieval, and NLU.
+<p style="font-size: 14px">I am currently a Software Engineer at GE, where I am building ML pipelines for analysis of grid solutions and renewable energy applications. Previously, I was an NLP consultant at <a href="https://bento.me/sirch" target="_blank">Sirch</a>, where I built models that perform Query Auto-Completion (QAC), information retrieval, and NLU.
 </p>
 <p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nick.c.disanto@gmail.com">reach out!</a> I'm always interested in taking on new and exciting projects.</p>
 
