@@ -10,9 +10,11 @@ redirect_from:
 <p style="margin-bottom:10px;"><font size="5"><b>Traffic</b></font></p>
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Qqhz0-BdyyED11hEBKUrrGm_EgsMT9ih1V0X9_cPoUY&cl=ffffff&w=a"></script>
 
 <body>
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Qqhz0-BdyyED11hEBKUrrGm_EgsMT9ih1V0X9_cPoUY&cl=ffffff&w=a"></script>
+
+  
   <!-- Default Statcounter code for My Personal Website
   https://nickdisanto.github.io/ -->
   <script type="text/javascript">
