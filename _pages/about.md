@@ -10,7 +10,7 @@ redirect_from:
 ---
 <p style="margin-bottom:10px; font-size: 20px"><b>About Me</b></p>
 
-<p style="font-size: 14px">I am a Computer Science PhD student at Vanderbilt University, working with Dr. Ipek Oguz. I have also spent time as both an ML/NLP Consultant for Sirch and a Software Engineer for GE Vernova. I previously graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
+<p style="font-size: 14px">I am a Computer Science PhD student at Vanderbilt University, working with Dr. Ipek Oguz. I have also spent time as both a Software Engineer for GE Vernova and an ML/NLP Consultant for Sirch. I previously graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a> in Spring 2023.
 </p>
 <p style="font-size: 14px">My research broadly spans Machine Learning, but my current focus is on building OCT mosaicking and denoising models to track ROP progression in infants. My interest in biomedical AI also extends into cognition, where I have interest in <b>intelligence grounding via perception</b> through <b>Natural Language Processing</b> and <b>Transmodal Learning</b>.
 </p>
