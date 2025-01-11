@@ -20,7 +20,7 @@ redirect_from:
 
 ------------------
 <p style="margin-bottom:10px; font-size: 20px"><b>Current Work</b></p>
-<p style="font-size: 14px">I am currently a Computer Science PhD student at Vanderbilt University, working with Dr. Ipek Oguz. My current focus is on building OCT mosaicking and denoising models to track ROP progression in infants.
+<p style="font-size: 14px">My current research focus in medical imaging focuses on building OCT mosaicking and denoising models to track ROP progression in infants.
 </p>
 <p style="font-size: 14px">Previously, I was a Software Engineer at GE Vernova, where I led our wildfire forecasting initiative, including the training, visualization, and productization of ML pipelines with power grid applications. I also co-led a company-wide initiative to integrate GenAI into GEV's Electrification Software products. I also spent time as an NLP consultant at Sirch, where I built models that perform Query Auto-Completion (QAC), information retrieval, and NLU.
 </p>
